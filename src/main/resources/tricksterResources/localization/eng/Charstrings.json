@@ -1,0 +1,13 @@
+{
+  "${ModID}:TheTrickster": {
+    "NAMES": [
+      "The Trickster",
+      "the Trickster"
+    ],
+    "TEXT": [
+      "A Wild Card, scaling the Spire to Steal its Corrupt Heart. Brandishes dagger, gun, Persona, and the strength of his bonds.",
+      "NL You steel your rebellious spirit, remembering your friends...",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~TODO:~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+    ]
+  }
+}

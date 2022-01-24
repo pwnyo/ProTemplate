@@ -1,0 +1,17 @@
+{
+  "${ModID}:TheTrickster": {
+    "NAME": "The Trickster",
+    "CHECKS": [
+      "A Wild Card, scaling the Spire to Steal its Corrupt Heart. Brandishes dagger, gun, Persona, and the strength of his bonds."
+    ],
+    "TALKS": [
+      "A Wild Card, scaling the Spire to Steal its Corrupt Heart. Brandishes dagger, gun, Persona, and the strength of his bonds."
+    ],
+    "ACTS": [
+      "A Wild Card, scaling the Spire to Steal its Corrupt Heart. Brandishes dagger, gun, Persona, and the strength of his bonds."
+    ],
+    "SPARES": [
+      "A Wild Card, scaling the Spire to Steal its Corrupt Heart. Brandishes dagger, gun, Persona, and the strength of his bonds."
+    ]
+  }
+}
